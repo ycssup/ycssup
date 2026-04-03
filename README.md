@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm YC
 
-<!--
-**ycssup/ycssup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Incoming Full-Time MBA at CUHK (2026–2027)
+- Investment Risk Management Professional with 7+ years of experience
+- Interested in risk management, generative AI, and data-driven tools
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Learning Python and data analysis
+- Building projects at the intersection of risk and technology
+- Exploring tools for Hong Kong job market research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- More projects coming soon
+
+## Contact
+- LinkedIn: www.linkedin.com/in/yingchl
