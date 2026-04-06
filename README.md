@@ -1,4 +1,4 @@
-# Hi👾
+# Hi👻
 
 ## About Me
 - Full-Time MBA student at CUHK | CFA | FRM | CAIA | Financial Risk Management | Exploring Finance × Data × Technology
