@@ -83,7 +83,7 @@ Investment risk professional with experience across insurance, consulting, trust
 ## 🌱 Current Focus
 
 - Developing **portfolio risk analytics tools**
-- Focused on integrating finance, risk management, data, and AI to support strategic decision-making and long-term value creation**
+- Focused on integrating finance, risk management, data, and AI to support strategic decision-making and long-term value creation
 
 ---
 
