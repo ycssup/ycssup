@@ -19,7 +19,7 @@ Investment risk professional with experience across insurance, consulting, trust
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Risk Analytics (In Progress)
+### 🔹 Portfolio Risk Analytics For Fund Investments (In Progress)
 - **Problem**: Monitor portfolio risk dynamically  
 - **Approach**:
   - Rolling volatility  
