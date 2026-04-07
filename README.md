@@ -63,7 +63,7 @@ Investment risk professional with experience across insurance, consulting, trust
 ## 📚 Education
 
 - 🎓 MBA (Full-time)
-  Chinese University of Hong Kong (CUHK), 2026–2027
+  Chinese University of Hong Kong, 2026–2027
 
 - 🎓 M.S. Quantitative Financial Economics
   Oklahoma State University, 2015-2017
