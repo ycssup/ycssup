@@ -8,8 +8,7 @@
 
 ## 🧭 About Me
 
-Investment risk professional with experience across insurance, consulting, trust, and wealth management institutions. :contentReference[oaicite:0]{index=0}  
-
+Investment risk professional with experience across insurance, consulting, trust, and wealth management institutions.
 - 7+ years in **multi-asset portfolio risk management**
 - Focus on **risk governance, risk monitoring, fund due diligence, and regulatory frameworks**
 - Experience across **insurance, consulting, trust, and wealth management**
@@ -64,13 +63,13 @@ Investment risk professional with experience across insurance, consulting, trust
 ## 📚 Education
 
 - 🎓 MBA (Full-time)
-  Chinese University of Hong Kong (CUHK), 2026–2027 :contentReference[oaicite:1]{index=1}  
+  Chinese University of Hong Kong (CUHK), 2026–2027
 
 - 🎓 M.S. Quantitative Financial Economics
-  Oklahoma State University, 2015-2017 :contentReference[oaicite:2]{index=2}  
+  Oklahoma State University, 2015-2017
 
 - 🎓 B.S. Finance & Accounting  
-  Indiana University Bloomington, 2011-2015 :contentReference[oaicite:3]{index=3}  
+  Indiana University Bloomington, 2011-2015
 
 ---
 
@@ -80,7 +79,7 @@ Investment risk professional with experience across insurance, consulting, trust
 - Certified FRM 
 - CAIA Charterholder  
 - Sustainable Investing Certificate  
-- 🏅 Top Talent Scholarship (CUHK) :contentReference[oaicite:4]{index=4}  
+- 🏅 Top Talent Scholarship (CUHK)
 
 ---
 
