@@ -11,7 +11,6 @@
 Investment risk professional with experience across insurance, consulting, trust, and wealth management institutions.
 - 7+ years in **multi-asset portfolio risk management**
 - Focus on **risk governance, risk monitoring, fund due diligence, and regulatory frameworks**
-- Experience across **insurance, consulting, trust, and wealth management**
 - Currently building **data-driven risk analytics tools using Python**
 - Long-term focus: **Risk + Data + Strategy integration**
 
