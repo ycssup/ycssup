@@ -53,10 +53,10 @@ Risk management professional with experience across insurance, consulting, trust
 
 ### 🛠 Tools
 - GitHub  
-- VS Code / Trae
-- ChatGPT / Gemini / DeepSeek / Kimi
-- Codex / Copilot
-- Python / Excel / PowerPoint  
+- VS Code | Trae
+- ChatGPT | Gemini | DeepSeek | Kimi
+- Codex | Copilot
+- Python | Excel | PowerPoint  
 
 ---
 
