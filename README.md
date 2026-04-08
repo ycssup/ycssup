@@ -18,14 +18,15 @@ Investment risk professional with experience across insurance, consulting, trust
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Risk Analytics For Fund Investments (In Progress)
+### 🔹 Fund Risk Analytics (In Progress)
 - **Problem**: Monitor portfolio risk dynamically  
 - **Approach**:
-  - Rolling volatility  
-  - Maximum drawdown  
-  - Risk-return analysis  
+  - Risk-Adjusted Return
+  - Return Metrics
+  - Risk Metrics
+  - Drawdown Analysis
 - **Goal**: Build a lightweight risk dashboard  
-- **Tech**: Python, pandas, matplotlib  
+- **Tech**: Python, pandas, numpy, matplotlib  
 
 ---
 
@@ -52,9 +53,9 @@ Investment risk professional with experience across insurance, consulting, trust
 
 ### 🛠 Tools
 - GitHub  
-- VS Code
-- ChatGPT
-- Codex 
+- VS Code / Trae
+- ChatGPT / Gemeni / DeepSeek / Kimi
+- Codex / Copilot
 - Python / Excel / PowerPoint  
 
 ---
