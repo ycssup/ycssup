@@ -1,7 +1,7 @@
 # 👋 Hi
 
 📊 Investment Risk Management → Data-driven Risk & Analytics  
-🎓 Incoming Full-time MBA @ CUHK (2026–2027)  
+🎓 Full-time MBA @ CUHK (2026–2027)  
 🌍 US → Shanghai → Hong Kong
 
 ---
