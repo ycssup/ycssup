@@ -54,7 +54,7 @@ Investment risk professional with experience across insurance, consulting, trust
 ### 🛠 Tools
 - GitHub  
 - VS Code / Trae
-- ChatGPT / Gemeni / DeepSeek / Kimi
+- ChatGPT / Gemini / DeepSeek / Kimi
 - Codex / Copilot
 - Python / Excel / PowerPoint  
 
