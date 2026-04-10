@@ -1,8 +1,8 @@
 # 👋 Hi
 
-- Investment Risk → Data-driven Analytics → Strategy  
-- Full-time MBA @ CUHK (2026–2027)  
-- US → Shanghai → Hong Kong  
+📊 Investment Risk → Data-driven Analytics → Strategy  
+🎓 Full-time MBA @ CUHK (2026–2027)  
+🌍 US → Shanghai → Hong Kong  
 
 ---
 
