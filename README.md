@@ -15,7 +15,7 @@ Focused on:
 - Fund due diligence & regulatory frameworks  
 - Building data-driven risk analytics tools  
 
-👉 Transitioning toward **risk + data + strategic decision-making**
+Transitioning toward **risk + data + strategic decision-making**
 
 ---
 
@@ -28,7 +28,7 @@ A Python-based framework for monitoring portfolio risk using NAV time series.
 - Drawdown analysis  
 - Rolling risk metrics  
 
-👉 Goal: bridge **risk monitoring → decision support**
+Goal: bridge **risk monitoring → decision support**
 
 ---
 
@@ -40,7 +40,7 @@ Decomposing portfolio returns into systematic risk factors.
 
 ---
 
-## 🎓 Background
+## Education
 
 - MBA, CUHK, 2026-2027
 - M.S. Quantitative Financial Economics, Oklahoma State University, 2015-2017  
@@ -54,7 +54,7 @@ CFA | FRM | CAIA
 
 ---
 
-## ⚡ Philosophy
+## Philosophy
 
 > Risk is not only about control —  
 > it is about making better decisions under uncertainty.
