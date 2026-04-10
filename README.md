@@ -1,12 +1,12 @@
 # 👋 Hi
 
-📊 Investment Risk → Data-driven Analytics → Strategy  
-🎓 Full-time MBA @ CUHK (2026–2027)  
-🌍 US → Shanghai → Hong Kong  
+- Investment Risk → Data-driven Analytics → Strategy  
+- Full-time MBA @ CUHK (2026–2027)  
+- US → Shanghai → Hong Kong  
 
 ---
 
-## 🧠 About
+## About
 
 Risk professional with 7+ years of experience across insurance, consulting, and wealth management.
 
@@ -19,7 +19,7 @@ Focused on:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 Fund Risk Analytics
 A Python-based framework for monitoring portfolio risk using NAV time series.
@@ -48,7 +48,7 @@ Decomposing portfolio returns into systematic risk factors.
 
 ---
 
-## 🏆 Credentials
+## Credentials
 
 CFA | FRM | CAIA  
 
