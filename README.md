@@ -42,7 +42,7 @@ Decomposing portfolio returns into systematic risk factors.
 
 ## Education
 
-- MBA, Chinese University of Hong Kong, 2026-2027
+- MBA, The Chinese University of Hong Kong, 2026-2027
 - M.S. Quantitative Financial Economics, Oklahoma State University, 2015-2017  
 - B.S. Finance & Accounting, Indiana University Bloomington, 2011-2015
 
