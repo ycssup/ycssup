@@ -1,8 +1,19 @@
-# Multi-Asset Portfolio Risk Management System
+name: Update README Time
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/yingchl2011/multi-asset-risk-management-system?style=for-the-badge&label=Last%20Updated" />
-  <img src="https://img.shields.io/badge/Python-Portfolio%20Risk%20Analytics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Risk%20Database-informational?style=for-the-badge" />
-</p>
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # 每分钟运行一次
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update time in README
+        run: |
+          CURRENT_TIME=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+          sed -i "s/<!-- TIME -->.*<!-- TIME -->/<!-- TIME --> $CURRENT_TIME <!-- TIME -->/" README.md
+      - uses: actions/commit-and-push@v3
+        with:
+          commit-message: "Update current time"
